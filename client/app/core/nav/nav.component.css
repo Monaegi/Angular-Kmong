@@ -1,0 +1,24 @@
+.header-yellow {
+  height: 59px;
+  background: #FFD400;
+  color: #4D4D4D;
+}
+
+.header-yellow .row {
+  width: 60%;
+  padding: 10px 15px;
+}
+
+.header-yellow .row input {
+  border: none;
+  width: 200px;
+  height: 18px;
+  padding: 7px 10px;
+  margin: 3px 10px 0 10px;
+  color: darkgray;
+}
+
+.header-yellow .row img {
+  width: 115px;
+  float: left;
+}
